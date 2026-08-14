@@ -2,3 +2,15 @@ __pycache__/
 *.pyc
 .DS_Store
 *.tmp
+
+# Archive and Drop locations
+data/agency_archive/
+data/agency_drops/
+cleaned_data/
+
+# Temporary CSV files
+temp_registry.csv
+agencies_registry.csv
+agency_registry_50rows.csv
+sample_agency_registry_upload.csv
+messed_up_readings_sample.csv

@@ -1,6 +1,0 @@
-city_name,date,pm25,pm10,aqi
-Ahmedabad,2020-08-01,45.2,82.1,110
-Bengaluru,2020-08-01,22.0,55.4,68
-Delhi,INVALID_DATE,120.5,210.0,310
-Kolkata,2020-08-01,-15.0,40.0,80
-UnknownCityXYZ,2020-08-01,30.0,60.0,75

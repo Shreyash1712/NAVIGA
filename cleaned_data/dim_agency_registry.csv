@@ -1,4 +1,0 @@
-agent_id,agent_name,supported_schema,drop_location,is_active
-1,Agent1,SchemaA,/Users/shreyashpagia/Desktop/NAVIGAS/data/IBLocationA,1
-2,Agent2,SchemaB,/Users/shreyashpagia/Desktop/NAVIGAS/data/IBLocationB,1
-3,Agent3,SchemaA,/Users/shreyashpagia/Desktop/NAVIGAS/data/IBLocationC,1
