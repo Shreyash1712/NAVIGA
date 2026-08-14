@@ -1,0 +1,3 @@
+agency_name,schema_assigned,drop_location
+National Clean Air Agency,schema1,/Users/shreyashpagia/Desktop/NAVIGAS/data/agency_drops/city_readings_schema1_50rows.csv
+State Pollution Board,schema2,/Users/shreyashpagia/Desktop/NAVIGAS/data/agency_drops/station_readings_schema2_50rows.csv

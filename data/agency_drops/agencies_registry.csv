@@ -1,0 +1,5 @@
+agency_name,schema_assigned,drop_location
+agency 1,schema1,/Users/shreyashpagia/Desktop/NAVIGAS/data/agency_drops/drop1.csv
+Agency2,schema1,/Users/shreyashpagia/Desktop/NAVIGAS/data/agency_drops/drop2.csv
+Ag3,schema2,/Users/shreyashpagia/Desktop/NAVIGAS/data/agency_drops/drop3.csv
+Ag4,schema2,/Users/shreyashpagia/Desktop/NAVIGAS/data/agency_drops/drop4.csv

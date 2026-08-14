@@ -1,0 +1,231 @@
+station_id,city_record_id,station_name,status
+AP001,25,"Secretariat, Amaravati - APPCB",Active
+AP002,493,"Anand Kala Kshetram, Rajamahendravaram - APPCB",Unknown
+AP003,464,"Tirumala, Tirupati - APPCB",Unknown
+AP004,486,"PWD Grounds, Vijayawada - APPCB",Unknown
+AP005,487,"GVM Corporation, Visakhapatnam - APPCB",Active
+AS001,193,"Railway Colony, Guwahati - APCB",Active
+BR001,175,"Collectorate, Gaya - BSPCB",Unknown
+BR002,175,"SFTI Kusdihra, Gaya - BSPCB",Unknown
+BR003,196,"Industrial Area, Hajipur - BSPCB",Unknown
+BR004,325,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",Unknown
+BR005,371,"DRM Office Danapur, Patna - BSPCB",Active
+BR006,371,"Govt. High School Shikarpur, Patna - BSPCB",Active
+BR007,371,"IGSC Planetarium Complex, Patna - BSPCB",Active
+BR008,371,"Muradpur, Patna - BSPCB",Active
+BR009,371,"Rajbansi Nagar, Patna - BSPCB",Active
+BR010,371,"Samanpura, Patna - BSPCB",Active
+CH001,115,"Sector-25, Chandigarh - CPCC",Active
+DL001,141,"Alipur, Delhi - DPCC",Active
+DL002,141,"Anand Vihar, Delhi - DPCC",Active
+DL003,141,"Ashok Vihar, Delhi - DPCC",Active
+DL004,141,"Aya Nagar, Delhi - IMD",Active
+DL005,141,"Bawana, Delhi - DPCC",Active
+DL006,141,"Burari Crossing, Delhi - IMD",Inactive
+DL007,141,"CRRI Mathura Road, Delhi - IMD",Active
+DL008,141,"DTU, Delhi - CPCB",Active
+DL009,141,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Active
+DL010,141,"Dwarka-Sector 8, Delhi - DPCC",Active
+DL011,141,"East Arjun Nagar, Delhi - CPCB",Active
+DL012,141,"IGI Airport (T3), Delhi - IMD",Active
+DL013,141,"IHBAS, Dilshad Garden, Delhi - CPCB",Active
+DL014,141,"ITO, Delhi - CPCB",Active
+DL015,141,"Jahangirpuri, Delhi - DPCC",Active
+DL016,141,"Jawaharlal Nehru Stadium, Delhi - DPCC",Active
+DL017,141,"Lodhi Road, Delhi - IMD",Active
+DL018,141,"Major Dhyan Chand National Stadium, Delhi - DPCC",Active
+DL019,141,"Mandir Marg, Delhi - DPCC",Active
+DL020,141,"Mundka, Delhi - DPCC",Active
+DL021,141,"NSIT Dwarka, Delhi - CPCB",Active
+DL022,141,"Najafgarh, Delhi - DPCC",Active
+DL023,141,"Narela, Delhi - DPCC",Active
+DL024,141,"Nehru Nagar, Delhi - DPCC",Active
+DL025,141,"North Campus, DU, Delhi - IMD",Active
+DL026,141,"Okhla Phase-2, Delhi - DPCC",Active
+DL027,141,"Patparganj, Delhi - DPCC",Active
+DL028,141,"Punjabi Bagh, Delhi - DPCC",Active
+DL029,141,"Pusa, Delhi - DPCC",Active
+DL030,141,"Pusa, Delhi - IMD",Active
+DL031,141,"R K Puram, Delhi - DPCC",Active
+DL032,141,"Rohini, Delhi - DPCC",Active
+DL033,141,"Shadipur, Delhi - CPCB",Active
+DL034,141,"Sirifort, Delhi - CPCB",Active
+DL035,141,"Sonia Vihar, Delhi - DPCC",Active
+DL036,141,"Sri Aurobindo Marg, Delhi - DPCC",Active
+DL037,141,"Vivek Vihar, Delhi - DPCC",Active
+DL038,141,"Wazirpur, Delhi - DPCC",Active
+GJ001,8,"Maninagar, Ahmedabad - GPCB",Active
+GJ002,494,"GIDC, Ankleshwar - GPCB",Unknown
+GJ003,171,"Sector-10, Gandhinagar - GPCB",Unknown
+GJ004,495,"GIDC, Nandesari - Nandesari Ind. Association",Unknown
+GJ005,496,"Phase-1 GIDC, Vapi - GPCB",Unknown
+GJ006,497,"Phase-4 GIDC, Vatva - GPCB",Unknown
+HR001,19,"Patti Mehar, Ambala - HSPCB",Active
+HR002,41,"Arya Nagar, Bahadurgarh - HSPCB",Active
+HR003,498,"Nathu Colony, Ballabgarh - HSPCB",Active
+HR004,90,"H.B. Colony, Bhiwani - HSPCB",Active
+HR005,499,"Municipal Corporation Office, Dharuhera - HSPCB",Active
+HR006,164,"New Industrial Town, Faridabad - HSPCB",Active
+HR007,164,"Sector 11, Faridabad - HSPCB",Active
+HR008,164,"Sector 30, Faridabad - HSPCB",Active
+HR009,164,"Sector- 16A, Faridabad - HSPCB",Active
+HR010,500,"Huda Sector, Fatehabad - HSPCB",Active
+HR011,192,"NISE Gwal Pahari, Gurugram - IMD",Active
+HR012,192,"Sector-51, Gurugram - HSPCB",Active
+HR013,192,"Teri Gram, Gurugram - HSPCB",Active
+HR014,192,"Vikas Sadan, Gurugram - HSPCB",Active
+HR015,212,"Urban Estate-II, Hisar - HSPCB",Active
+HR016,240,"Police Lines, Jind - HSPCB",Active
+HR017,244,"Rishi Nagar, Kaithal - HSPCB",Active
+HR018,256,"Sector-12, Karnal - HSPCB",Active
+HR019,501,"Sector-7, Kurukshetra - HSPCB",Active
+HR020,502,"General Hospital, Mandikhera - HSPCB",Active
+HR021,503,"Sector-2 IMT, Manesar - HSPCB",Active
+HR022,504,"Shastri Nagar, Narnaul - HSPCB",Active
+HR023,362,"Shyam Nagar, Palwal - HSPCB",Active
+HR024,363,"Sector-6, Panchkula - HSPCB",Active
+HR025,365,"Sector-18, Panipat - HSPCB",Active
+HR026,407,"MD University, Rohtak - HSPCB",Active
+HR027,438,"F-Block, Sirsa - HSPCB",Active
+HR028,442,"Murthal, Sonipat - HSPCB",Active
+HR029,505,"Gobind Pura, Yamuna Nagar - HSPCB",Active
+JH001,506,"Tata Stadium, Jorapokhar - JSPCB",Active
+KA001,40,"Vidayagiri, Bagalkot - KSPCB",Unknown
+KA002,72,"BTM Layout, Bengaluru - CPCB",Active
+KA003,72,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Active
+KA004,72,"Bapuji Nagar, Bengaluru - KSPCB",Active
+KA005,72,"City Railway Station, Bengaluru - KSPCB",Active
+KA006,72,"Hebbal, Bengaluru - KSPCB",Active
+KA007,72,"Hombegowda Nagar, Bengaluru - KSPCB",Active
+KA008,72,"Jayanagar 5th Block, Bengaluru - KSPCB",Active
+KA009,72,"Peenya, Bengaluru - CPCB",Active
+KA010,72,"Sanegurava Halli, Bengaluru - KSPCB",Active
+KA011,72,"Silk Board, Bengaluru - KSPCB",Active
+KA012,507,"Urban, Chamarajanagar - KSPCB",Unknown
+KA013,508,"Chikkaballapur Rural, Chikkaballapur - KSPCB",Unknown
+KA014,509,"Kalyana Nagara, Chikkamagaluru - KSPCB",Unknown
+KA015,510,"Deshpande Nagar, Hubballi - KSPCB",Unknown
+KA016,511,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",Unknown
+KA017,512,"Hebbal 1st Stage, Mysuru - KSPCB",Unknown
+KA018,513,"Vijay Nagar, Ramanagara - KSPCB",Unknown
+KA019,514,"Ibrahimpur, Vijayapura - KSPCB",Unknown
+KA020,515,"Collector Office, Yadgir - KSPCB",Unknown
+KL001,516,"Udyogamandal, Eloor - Kerala PCB",Unknown
+KL002,517,"Kacheripady, Ernakulam - Kerala PCB",Unknown
+KL003,518,"Thavakkara, Kannur - Kerala PCB",Unknown
+KL004,271,"Vyttila, Kochi - Kerala PCB",Unknown
+KL005,275,"Polayathode, Kollam - Kerala PCB",Unknown
+KL006,278,"Palayam, Kozhikode - Kerala PCB",Unknown
+KL007,459,"Kariavattom, Thiruvananthapuram - Kerala PCB",Active
+KL008,459,"Plammoodu, Thiruvananthapuram - Kerala PCB",Active
+MP001,91,"T T Nagar, Bhopal - MPPCB",Active
+MP002,133,"Shrivastav Colony, Damoh - MPPCB",Unknown
+MP003,146,"Bhopal Chauraha, Dewas - MPPCB",Unknown
+MP004,194,"City Center, Gwalior - MPPCB",Unknown
+MP005,194,"Phool Bagh, Gwalior - Mondelez Ind. Food",Unknown
+MP006,221,"Chhoti Gwaltoli, Indore - MPPCB",Unknown
+MP007,222,"Marhatal, Jabalpur - MPPCB",Unknown
+MP008,519,"Gole Bazar, Katni - MPPCB",Unknown
+MP009,520,"Sahilara, Maihar - KJS Cements",Unknown
+MP010,521,"Sector-D Industrial Area, Mandideep - MPPCB",Unknown
+MP011,374,"Sector-2 Industrial Area, Pithampur - MPPCB",Unknown
+MP012,400,"Shasthri Nagar, Ratlam - IPCA Lab",Unknown
+MP013,411,"Deen Dayal Nagar, Sagar - MPPCB",Unknown
+MP014,421,"Bandhavgar Colony, Satna - Birla Cement",Unknown
+MP015,437,"Vindhyachal STPS, Singrauli - MPPCB",Unknown
+MP016,474,"Mahakaleshwar Temple, Ujjain - MPPCB",Unknown
+MH001,35,"More Chowk Waluj, Aurangabad - MPCB",Unknown
+MH002,116,"Chandrapur, Chandrapur - MPCB",Unknown
+MH003,116,"MIDC Khutala, Chandrapur - MPCB",Unknown
+MH004,522,"Khadakpada, Kalyan - MPCB",Unknown
+MH005,185,"Bandra, Mumbai - MPCB",Active
+MH006,185,"Borivali East, Mumbai - MPCB",Active
+MH007,185,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Active
+MH008,185,"Colaba, Mumbai - MPCB",Active
+MH009,185,"Kurla, Mumbai - MPCB",Active
+MH010,185,"Powai, Mumbai - MPCB",Active
+MH011,185,"Sion, Mumbai - MPCB",Active
+MH012,185,"Vasai West, Mumbai - MPCB",Active
+MH013,185,"Vile Parle West, Mumbai - MPCB",Active
+MH014,185,"Worli, Mumbai - MPCB",Active
+MH015,334,"Opp GPO Civil Lines, Nagpur - MPCB",Unknown
+MH016,342,"Gangapur Road, Nashik - MPCB",Unknown
+MH017,343,"Airoli, Navi Mumbai - MPCB",Unknown
+MH018,343,"Mahape, Navi Mumbai - MPCB",Unknown
+MH019,343,"Nerul, Navi Mumbai - MPCB",Unknown
+MH020,380,"Karve Road, Pune - MPCB",Unknown
+MH021,441,"Solapur, Solapur - MPCB",Unknown
+MH022,456,"Pimpleshwar Mandir, Thane - MPCB",Unknown
+ML001,430,"Lumpyngngad, Shillong - Meghalaya PCB",Active
+MZ001,10,"Sikulpuikawn, Aizawl - Mizoram PCB",Active
+OD001,523,"GM Office, Brajrajnagar - OSPCB",Active
+OD002,524,"Talcher Coalfields,Talcher - OSPCB",Active
+PB001,27,"Golden Temple, Amritsar - PPCB",Active
+PB002,67,"Hardev Nagar, Bathinda - PPCB",Unknown
+PB003,226,"Civil Line, Jalandhar - PPCB",Unknown
+PB004,262,"Kalal Majra, Khanna - PPCB",Unknown
+PB005,289,"Punjab Agricultural University, Ludhiana - PPCB",Unknown
+PB006,525,"RIMT University, Mandi Gobindgarh - PPCB",Unknown
+PB007,370,"Model Town, Patiala - PPCB",Unknown
+PB008,526,"Ratanpura, Rupnagar - Ambuja Cements",Unknown
+RJ001,18,"Moti Doongri, Alwar - RSPCB",Unknown
+RJ002,11,"Civil Lines, Ajmer - RSPCB",Unknown
+RJ003,89,"RIICO Ind. Area III, Bhiwadi - RSPCB",Unknown
+RJ004,225,"Adarsh Nagar, Jaipur - RSPCB",Active
+RJ005,225,"Police Commissionerate, Jaipur - RSPCB",Active
+RJ006,225,"Shastri Nagar, Jaipur - RSPCB",Active
+RJ007,241,"Collectorate, Jodhpur - RSPCB",Unknown
+RJ008,277,"Shrinath Puram, Kota - RSPCB",Unknown
+RJ009,360,"Indira Colony Vistar, Pali - RSPCB",Unknown
+RJ010,471,"Ashok Nagar, Udaipur - RSPCB",Unknown
+TN001,119,"Alandur Bus Depot, Chennai - CPCB",Active
+TN002,119,"Manali Village, Chennai - TNPCB",Active
+TN003,119,"Manali, Chennai - CPCB",Active
+TN004,119,"Velachery Res. Area, Chennai - CPCB",Active
+TN005,128,"SIDCO Kurichi, Coimbatore - TNPCB",Active
+TG001,184,"Bollaram Industrial Area, Hyderabad - TSPCB",Active
+TG002,184,"Central University, Hyderabad - TSPCB",Active
+TG003,184,"ICRISAT Patancheru, Hyderabad - TSPCB",Active
+TG004,184,"IDA Pashamylaram, Hyderabad - TSPCB",Active
+TG005,184,"Sanathnagar, Hyderabad - TSPCB",Active
+TG006,184,"Zoo Park, Hyderabad - TSPCB",Active
+UP001,7,"Sanjay Palace, Agra - UPPCB",Unknown
+UP002,527,"New Collectorate, Baghpat - UPPCB",Unknown
+UP003,107,"Yamunapuram, Bulandshahr - UPPCB",Unknown
+UP004,528,"Indirapuram, Ghaziabad - UPPCB",Unknown
+UP005,528,"Loni, Ghaziabad - UPPCB",Unknown
+UP006,528,"Sanjay Nagar, Ghaziabad - UPPCB",Unknown
+UP007,528,"Vasundhara, Ghaziabad - UPPCB",Unknown
+UP008,186,"Knowledge Park - III, Greater Noida - UPPCB",Unknown
+UP009,186,"Knowledge Park - V, Greater Noida - UPPCB",Unknown
+UP010,202,"Anand Vihar, Hapur - UPPCB",Unknown
+UP011,251,"Nehru Nagar, Kanpur - UPPCB",Unknown
+UP012,288,"Central School, Lucknow - CPCB",Active
+UP013,288,"Gomti Nagar, Lucknow - UPPCB",Active
+UP014,288,"Lalbagh, Lucknow - CPCB",Active
+UP015,288,"Nishant Ganj, Lucknow - UPPCB",Inactive
+UP016,288,"Talkatora District Industries Center, Lucknow - CPCB",Active
+UP017,309,"Ganga Nagar, Meerut - UPPCB",Unknown
+UP018,309,"Jai Bhim Nagar, Meerut - UPPCB",Unknown
+UP019,309,"Pallavpuram Phase 2, Meerut - UPPCB",Unknown
+UP020,315,"Lajpat Nagar, Moradabad - UPPCB",Unknown
+UP021,529,"New Mandi, Muzaffarnagar - UPPCB",Unknown
+UP022,351,"Sector - 125, Noida - UPPCB",Unknown
+UP023,351,"Sector - 62, Noida - IMD",Unknown
+UP024,351,"Sector-1, Noida - UPPCB",Unknown
+UP025,351,"Sector-116, Noida - UPPCB",Unknown
+UP026,481,"Ardhali Bazar, Varanasi - UPPCB",Unknown
+WB001,33,"Asansol Court Area, Asansol - WBPCB",Unknown
+WB002,157,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",Unknown
+WB003,197,"Haldia, Haldia - WBPCB",Unknown
+WB004,530,"Belur Math, Howrah - WBPCB",Unknown
+WB005,530,"Ghusuri, Howrah - WBPCB",Unknown
+WB006,530,"Padmapukur, Howrah - WBPCB",Unknown
+WB007,274,"Ballygunge, Kolkata - WBPCB",Active
+WB008,274,"Bidhannagar, Kolkata - WBPCB",Active
+WB009,274,"Fort William, Kolkata - WBPCB",Active
+WB010,274,"Jadavpur, Kolkata - WBPCB",Active
+WB011,274,"Rabindra Bharati University, Kolkata - WBPCB",Active
+WB012,274,"Rabindra Sarobar, Kolkata - WBPCB",Active
+WB013,274,"Victoria, Kolkata - WBPCB",Active
+WB014,436,"Ward-32 Bapupara, Siliguri - WBPCB",Unknown
