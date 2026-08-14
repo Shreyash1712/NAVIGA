@@ -1,6 +1,6 @@
-# 🍃 NAVIGA — Public-Data Reporting & Air Quality Dashboard
+# Public-Data Reporting & Air Quality Dashboard
 
-**NAVIGA** is a production-ready, BCNF-normalized data engineering pipeline and interactive Streamlit web dashboard. It processes Central Pollution Control Board (CPCB) India daily air quality records combined with 2011 Census metadata, cleans sensor anomalies, and executes analytical queries for environmental policy reporting.
+**Public-Data Reporting & Air Quality Dashboard** is a production-ready, BCNF-normalized data engineering pipeline and interactive Streamlit web dashboard. It processes Central Pollution Control Board (CPCB) India daily air quality records combined with 2011 Census metadata, cleans sensor anomalies, and executes analytical queries for environmental policy reporting.
 
 ---
 
