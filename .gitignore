@@ -7,6 +7,8 @@ __pycache__/
 data/agency_archive/
 data/agency_drops/
 cleaned_data/
+IBLocation*/
+location*/
 
 # Temporary CSV files
 temp_registry.csv
