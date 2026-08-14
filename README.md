@@ -25,8 +25,8 @@
 
 Clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/Shreyash1712/NAVIGA-Project.git
-cd NAVIGA-Project
+git clone https://github.com/Shreyash1712/NAVIGA.git
+cd NAVIGA
 pip install -r requirements.txt
 ```
 
@@ -52,6 +52,6 @@ Open your browser at `http://localhost:8501`.
 
 1. Fork or push this repository to GitHub.
 2. Go to [share.streamlit.io](https://share.streamlit.io).
-3. Connect your GitHub account and select repository `Shreyash1712/NAVIGA-Project`.
+3. Connect your GitHub account and select repository `Shreyash1712/NAVIGA`.
 4. Set Main file path to `app.py`.
 5. Click **Deploy!**
